@@ -7,7 +7,7 @@ Nome: Guilherme d'Angelis Ribeiro Lelis
 Matricula: 874998
 
 ## Tela de inspeção com navegador
-
+<img src="tarefa1.png" alt="">
 
 ## Tela de projeto no Replit
-
+<img src="tarefa2.png" alt="">
